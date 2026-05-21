@@ -1,0 +1,458 @@
+{
+  "sinavlar": {
+    "TYT": {
+      "baslik": "Temel Yeterlilik Testi",
+      "dersler": ["Türkçe", "Matematik", "Fen Bilimleri", "Sosyal Bilimler"],
+      "soru_sayilari": {
+        "Türkçe": 40,
+        "Matematik": 40,
+        "Fen Bilimleri": 20,
+        "Sosyal Bilimler": 20
+      },
+      "ders_detay": {
+        "Türkçe": {
+          "konular": [
+            {
+              "ad": "Sözcükte Anlam",
+              "soru_tipleri": ["Sözcük Anlamı", "Eş Anlam", "Zıt Anlam", "Çok Anlamlılık", "Sözcük Yorumu"]
+            },
+            {
+              "ad": "Cümlede Anlam",
+              "soru_tipleri": ["Cümle Yorumu", "Cümle İlişkisi", "Anlam Belirsizliği", "Cümlenin Anlam Özellikleri"]
+            },
+            {
+              "ad": "Paragraf",
+              "soru_tipleri": ["Ana Fikir", "Yardımcı Fikir", "Paragrafın Yapısı", "Yazar Tutumu", "Bağlaç ve Akış", "Detay-Çıkarım"]
+            },
+            {
+              "ad": "Dil Bilgisi",
+              "soru_tipleri": ["Ses Bilgisi", "Yapım Ekleri", "Çekim Ekleri", "Sözcük Türleri", "Cümlenin Ögeleri", "Cümle Türleri", "Anlatım Bozuklukları"]
+            },
+            {
+              "ad": "Yazım Kuralları",
+              "soru_tipleri": ["Bitişik-Ayrı Yazım", "Büyük Harf Kullanımı", "Sayıların Yazımı", "Kısaltmalar"]
+            },
+            {
+              "ad": "Noktalama İşaretleri",
+              "soru_tipleri": ["Nokta", "Virgül", "Noktalı Virgül", "İki Nokta", "Üç Nokta", "Soru İşareti", "Ünlem", "Tırnak", "Kısa Çizgi", "Uzun Çizgi"]
+            }
+          ],
+          "yillara_gore_dagilim": {
+            "2025": {"Sözcükte Anlam": 4, "Cümlede Anlam": 3, "Paragraf": 25, "Dil Bilgisi": 4, "Yazım Kuralları": 2, "Noktalama": 2},
+            "2024": {"Sözcükte Anlam": 4, "Cümlede Anlam": 3, "Paragraf": 26, "Dil Bilgisi": 3, "Yazım Kuralları": 2, "Noktalama": 2},
+            "2023": {"Sözcükte Anlam": 3, "Cümlede Anlam": 4, "Paragraf": 26, "Dil Bilgisi": 4, "Yazım Kuralları": 2, "Noktalama": 1}
+          }
+        },
+        "Matematik": {
+          "konular": [
+            {
+              "ad": "Temel Kavramlar",
+              "soru_tipleri": ["Sayı Kümeleri", "Tek-Çift Sayılar", "Ardışık Sayılar", "Asal Sayılar", "Faktöriyel"]
+            },
+            {
+              "ad": "Sayı Basamakları",
+              "soru_tipleri": ["Basamak Değeri", "Çözümleme", "Sayı Oluşturma", "Rakamlar Arası İlişkiler"]
+            },
+            {
+              "ad": "Bölme ve Bölünebilme",
+              "soru_tipleri": ["Bölme İşlemi", "Bölünebilme Kuralları", "Kalan Problemleri"]
+            },
+            {
+              "ad": "EBOB - EKOK",
+              "soru_tipleri": ["En Büyük Ortak Bölen", "En Küçük Ortak Kat", "Problem Çözümleri"]
+            },
+            {
+              "ad": "Rasyonel Sayılar",
+              "soru_tipleri": ["Kesirlerle İşlemler", "Sıralama", "Ondalık Gösterim", "Devirli Sayılar"]
+            },
+            {
+              "ad": "Basit Eşitsizlikler",
+              "soru_tipleri": ["Eşitsizlik Çözümü", "Sıralama Problemleri", "Mutlak Değerli Eşitsizlikler"]
+            },
+            {
+              "ad": "Mutlak Değer",
+              "soru_tipleri": ["Mutlak Değer Tanımı", "Mutlak Değerli Denklemler", "Mutlak Değerli Eşitsizlikler"]
+            },
+            {
+              "ad": "Üslü Sayılar",
+              "soru_tipleri": ["Üslü İfadeler", "Üslü Denklemler", "Bilimsel Gösterim"]
+            },
+            {
+              "ad": "Köklü Sayılar",
+              "soru_tipleri": ["Köklü İfadeler", "Köklü Denklemler", "İç İçe Kökler"]
+            },
+            {
+              "ad": "Çarpanlara Ayırma",
+              "soru_tipleri": ["Ortak Çarpan", "İki Kare Farkı", "Tam Kare", "Küp Açılımları", "Gruplandırma"]
+            },
+            {
+              "ad": "Denklem Çözme",
+              "soru_tipleri": ["Birinci Derece Denklemler", "İkinci Derece Denklemler", "Köklü Denklemler", "Parametreli Denklemler"]
+            },
+            {
+              "ad": "Oran - Orantı",
+              "soru_tipleri": ["Doğru Orantı", "Ters Orantı", "Bileşik Orantı", "Problem Çözümleri"]
+            },
+            {
+              "ad": "Problemler",
+              "soru_tipleri": ["Sayı Problemleri", "Kesir Problemleri", "Yaş Problemleri", "Hız-Hareket Problemleri", "İşçi-Havuz Problemleri", "Yüzde-Kar-Zarar Problemleri", "Karışım Problemleri", "Grafik Problemleri"]
+            },
+            {
+              "ad": "Kümeler",
+              "soru_tipleri": ["Küme Kavramı", "Kümelerde İşlemler", "Venn Şeması", "Sözel Problemler"]
+            },
+            {
+              "ad": "Fonksiyonlar",
+              "soru_tipleri": ["Fonksiyon Kavramı", "Fonksiyon Çeşitleri", "Bileşke Fonksiyon", "Ters Fonksiyon"]
+            },
+            {
+              "ad": "Permütasyon-Kombinasyon",
+              "soru_tipleri": ["Faktöriyel", "Permütasyon", "Kombinasyon", "Tekrarlı Permütasyon"]
+            },
+            {
+              "ad": "Olasılık",
+              "soru_tipleri": ["Olasılık Kavramı", "Basit Olayların Olasılığı", "Bağımlı-Bağımsız Olaylar", "Koşullu Olasılık"]
+            },
+            {
+              "ad": "İstatistik",
+              "soru_tipleri": ["Aritmetik Ortalama", "Medyan", "Mod", "Açıklık", "Grafik Yorumlama"]
+            }
+          ],
+          "yillara_gore_dagilim": {
+            "2025": {"Temel Kavramlar": 4, "Sayı Basamakları": 1, "Bölünebilme": 1, "Rasyonel Sayılar": 3, "Eşitsizlikler": 0, "Mutlak Değer": 1, "Üslü Sayılar": 1, "Köklü Sayılar": 1, "Denklemler": 0, "Problemler": 12, "Kümeler": 1, "Fonksiyonlar": 1, "Permütasyon-Kombinasyon": 1, "Olasılık": 1, "İstatistik": 1}
+          }
+        },
+        "Fen Bilimleri": {
+          "konular": {
+            "Fizik": [
+              {"ad": "Fizik Bilimine Giriş", "soru_tipleri": ["Bilimsel Yöntem", "Fiziksel Nicelikler", "Birimler"]},
+              {"ad": "Hareket ve Kuvvet", "soru_tipleri": ["Sürat-Hız", "İvme", "Newton'un Hareket Yasaları", "Sürtünme Kuvveti"]},
+              {"ad": "Enerji", "soru_tipleri": ["İş-Güç-Enerji", "Kinetik Enerji", "Potansiyel Enerji", "Mekanik Enerji Korunumu", "Enerji Dönüşümleri"]},
+              {"ad": "Isı ve Sıcaklık", "soru_tipleri": ["Isı-Sıcaklık Farkı", "Hal Değişimi", "Genleşme", "Isı İletimi"]},
+              {"ad": "Elektrik", "soru_tipleri": ["Elektrik Yükü", "Akım-Gerilim-Direnç", "Ohm Yasası", "Seri-Paralel Bağlama", "Elektrik Enerjisi"]},
+              {"ad": "Manyetizma", "soru_tipleri": ["Mıknatıslar", "Manyetik Alan", "Elektromıknatıslar"]},
+              {"ad": "Dalgalar", "soru_tipleri": ["Mekanik Dalgalar", "Ses Dalgaları", "Işık Dalgaları", "Yansıma-Kırılma-Kırınım", "Deprem Dalgaları"]},
+              {"ad": "Optik", "soru_tipleri": ["Işık Yayılması", "Aynalar", "Mercekler", "Renk Oluşumu"]}
+            ],
+            "Kimya": [
+              {"ad": "Kimya Bilimi", "soru_tipleri": ["Simyadan Kimyaya", "Kimyanın Dalları", "Kimya Disiplinleri"]},
+              {"ad": "Atom ve Periyodik Sistem", "soru_tipleri": ["Atom Modelleri", "Atom Yapısı", "Periyodik Cetvel", "Periyodik Özellikler"]},
+              {"ad": "Kimyasal Türler", "soru_tipleri": ["İyonlar", "Bileşikler", "Yaygın Bileşikler", "Kimyasal Tepkimeler"]},
+              {"ad": "Kimyasal Tepkimeler", "soru_tipleri": ["Tepkime Türleri", "Denklem Denkleştirme", "Hesaplamalar"]},
+              {"ad": "Asitler-Bazlar-Tuzlar", "soru_tipleri": ["Asit-Baz Tanımları", "pH", "Tuz Oluşumu", "Nötralleşme"]}
+            ],
+            "Biyoloji": [
+              {"ad": "Canlıların Yapısı", "soru_tipleri": ["Hücre", "Hücre Organelleri", "Hücre Zarından Taşıma"]},
+              {"ad": "Canlıların Sınıflandırılması", "soru_tipleri": ["Sınıflandırma Basamakları", "Alemler", "Virüsler-Bakteriler-Protista-Mantarlar-Bitkiler-Hayvanlar"]},
+              {"ad": "Hücre Bölünmeleri", "soru_tipleri": ["Mitoz", "Mayoz", "Eşeysiz-Eşeyli Üreme"]},
+              {"ad": "Kalıtım", "soru_tipleri": ["Mendel Genetiği", "Çaprazlamalar", "Akraba Evliliği", "Modifikasyon-Mutasyon"]},
+              {"ad": "Ekoloji", "soru_tipleri": ["Ekosistem", "Besin Zinciri", "Madde Döngüleri", "Çevre Sorunları"]}
+            ]
+          }
+        },
+        "Sosyal Bilimler": {
+          "konular": {
+            "Tarih": [
+              {"ad": "Tarih ve Zaman", "soru_tipleri": ["Tarih Bilimi", "Takvimler", "Zaman Ölçme"]},
+              {"ad": "İlk ve Orta Çağlarda Türk Dünyası", "soru_tipleri": ["İlk Türk Devletleri", "Kültür ve Medeniyet", "İslamiyet Öncesi"]},
+              {"ad": "İslam Medeniyeti", "soru_tipleri": ["Hz. Muhammed Dönemi", "Dört Halife", "Emeviler-Abbasiler"]},
+              {"ad": "Beylikten Devlete Osmanlı", "soru_tipleri": ["Osmanlı Kuruluşu", "Yükselme Dönemi"]},
+              {"ad": "Dünya Gücü Osmanlı", "soru_tipleri": ["Toprak Yönetimi", "Hukuk Sistemi", "Kültür ve Sanat"]},
+              {"ad": "XX. Yüzyıl Başlarında Osmanlı", "soru_tipleri": ["Demokratikleşme Hareketleri", "Fikir Akımları"]},
+              {"ad": "Milli Mücadele", "soru_tipleri": ["Mustafa Kemal'in Hayatı", "Kongreler", "Savaşlar", "Cepheler"]},
+              {"ad": "Atatürkçülük ve Türk İnkılabı", "soru_tipleri": ["Atatürk İlkeleri", "İnkılaplar", "Atatürk Dönemi İç ve Dış Politika"]}
+            ],
+            "Coğrafya": [
+              {"ad": "Doğa ve İnsan", "soru_tipleri": ["Coğrafya Bilimi", "Doğal ve Beşeri Ortam"]},
+              {"ad": "Dünya'nın Şekli ve Hareketleri", "soru_tipleri": ["Şekil Sonuçları", "Hareketler Sonuçları", "Eksen Eğikliği"]},
+              {"ad": "Harita Bilgisi", "soru_tipleri": ["Harita Türleri", "Ölçek", "Yeryüzü Şekilleri", "Harita Çizimi"]},
+              {"ad": "İklim Bilgisi", "soru_tipleri": ["Atmosfer", "Sıcaklık-Basınç-Rüzgar-Nem", "İklim Tipleri"]},
+              {"ad": "Türkiye'de İklim", "soru_tipleri": ["İklim Elemanları", "İklim Tipleri", "Bitki Örtüsü"]},
+              {"ad": "Nüfus ve Yerleşme", "soru_tipleri": ["Nüfus Sayımı", "Nüfus Politikaları", "Göçler", "Yerleşme Tipleri"]},
+              {"ad": "Ekonomik Faaliyetler", "soru_tipleri": ["Tarım", "Hayvancılık", "Madencilik", "Sanayi", "Turizm", "Ulaşım", "Ticaret"]},
+              {"ad": "Doğal Afetler", "soru_tipleri": ["Deprem", "Heyelan", "Sel", "Kaya Düşmesi", "Çığ", "Erozyon"]}
+            ],
+            "Felsefe": [
+              {"ad": "Felsefenin Alanı", "soru_tipleri": ["Felsefe Nedir?", "Bilgi Felsefesi", "Varlık Felsefesi", "Ahlak Felsefesi"]},
+              {"ad": "Bilgi Felsefesi", "soru_tipleri": ["Bilginin Kaynağı", "Doğruluk", "Bilgi Türleri"]},
+              {"ad": "Varlık Felsefesi", "soru_tipleri": ["Varlık Nedir?", "Varlık Türleri", "Materyalizm", "İdealizm", "Dualizm"]},
+              {"ad": "Ahlak Felsefesi", "soru_tipleri": ["İyi Nedir?", "Ahlakın Kaynağı", "Mutluluk", "Ödev Ahlakı"]},
+              {"ad": "Sanat Felsefesi", "soru_tipleri": ["Güzel Nedir?", "Sanat Eseri", "Sanatçı"]},
+              {"ad": "Din Felsefesi", "soru_tipleri": ["Tanrı'nın Varlığı", "Kötülük Problemi", "İnanç ve Akıl"]},
+              {"ad": "Siyaset Felsefesi", "soru_tipleri": ["Devlet", "Adalet", "Özgürlük", "Eşitlik", "Demokrasi"]}
+            ],
+            "Din Kültürü": [
+              {"ad": "İnançla İlgili Meseleler", "soru_tipleri": ["İman", "İslam'da İnanç Esasları"]},
+              {"ad": "İbadet Hayatı", "soru_tipleri": ["Namaz", "Oruç", "Zekat", "Hac"]},
+              {"ad": "Ahlak", "soru_tipleri": ["Ahlaki Davranışlar", "Kötü Alışkanlıklar", "Temel Değerler"]},
+              {"ad": "Din ve Toplum", "soru_tipleri": ["Din Sosyolojisi", "Türkiye'de Din"]}
+            ]
+          }
+        }
+      }
+    },
+    "AYT": {
+      "baslik": "Alan Yeterlilik Testi",
+      "dersler": {
+        "sayisal": ["Matematik", "Fizik", "Kimya", "Biyoloji"],
+        "sozel": ["Edebiyat", "Tarih", "Coğrafya", "Felsefe"],
+        "esit agirlik": ["Matematik", "Edebiyat", "Tarih"],
+        "dil": ["İngilizce"]
+      },
+      "soru_sayilari": {
+        "Matematik": 32,
+        "Fizik": 14,
+        "Kimya": 13,
+        "Biyoloji": 13,
+        "Edebiyat": 24,
+        "Tarih": 16,
+        "Coğrafya": 12,
+        "Felsefe": 8,
+        "İngilizce": 80
+      },
+      "ders_detay": {
+        "Matematik": {
+          "konular": [
+            {"ad": "Temel Kavramlar", "soru_tipleri": ["Sayılar", "Tek-Çift", "Asal Sayılar", "Faktöriyel"]},
+            {"ad": "Trigonometri", "soru_tipleri": ["Trigonometrik Fonksiyonlar", "Dönüşüm Formülleri", "Trigonometrik Denklemler", "Periyot", "Ters Trigonometrik"]},
+            {"ad": "Logaritma", "soru_tipleri": ["Logaritma Tanımı", "Logaritma Kuralları", "Üstel Denklemler", "Logaritmik Denklemler", "Tablo Yorumu"]},
+            {"ad": "Limit", "soru_tipleri": ["Limit Kavramı", "Sağ-Sol Limit", "Limit Kuralları", "Belirsizlikler", "Süreklilik"]},
+            {"ad": "Türev", "soru_tipleri": ["Türev Tanımı", "Türev Alma Kuralları", "Zincir Kuralı", "Türevin Uygulamaları", "Maksimum-Minimum", "Eğri Çizimi", "Rasyonel Fonksiyonlar"]},
+            {"ad": "İntegral", "soru_tipleri": ["Belirsiz İntegral", "Değişken Değiştirme", "Belirli İntegral", "Alan Hacim Problemleri", "İntegralde Sınır Değiştirme"]},
+            {"ad": "Permütasyon-Kombinasyon-Olasılık", "soru_tipleri": ["Faktöriyel", "Permütasyon", "Kombinasyon", "Binom", "Olasılık"]},
+            {"ad": "Diziler", "soru_tipleri": ["Aritmetik Dizi", "Geometrik Dizi", "Toplam Sembolü"]},
+            {"ad": "Parabol", "soru_tipleri": ["Parabol Denklemi", "Tepe Noktası", "Kesen-Tanjant", "Parametre"]},
+            {"ad": "Karmaşık Sayılar", "soru_tipleri": ["Karmaşık Sayı Tanımı", "Toplama-Çıkarma", "Çarpma-Bölme", "Eşlenik", "Mutlak Değer", "Kutupsal Gösterim"]}
+          ],
+          "yillara_gore_dagilim": {
+            "2025": {"Trigonometri": 5, "Logaritma": 2, "Limit": 2, "Türev": 3, "İntegral": 3, "Diziler": 1, "Karmaşık Sayılar": 0, "Olasılık": 3, "Temel Kavramlar": 1},
+            "2024": {"Trigonometri": 5, "Logaritma": 1, "Limit": 2, "Türev": 3, "İntegral": 5, "Diziler": 1, "Karmaşık Sayılar": 0, "Olasılık": 3, "Temel Kavramlar": 2}
+          }
+        },
+        "Fizik": {
+          "konular": [
+            {"ad": "Mekanik", "soru_tipleri": ["Vektörler", "Kuvvet-Denge", "Newton Yasaları", "Enerji", "Çizgisel Momentum", "Tork-Denge", "Kütle Merkezi", "Basit Makineler"]},
+            {"ad": "Elektrik ve Manyetizma", "soru_tipleri": ["Elektriksel Kuvvet-Alan", "Elektriksel Potansiyel", "Sığaçlar", "Manyetik Alan-Akı", "İndüksiyon", "Alternatif Akım"]},
+            {"ad": "Dalgalar", "soru_tipleri": ["Yay Dalgaları", "Su Dalgaları", "Ses Dalgası", "Deprem Dalgaları", "Girişim-Kırınım"]},
+            {"ad": "Optik", "soru_tipleri": ["Yansıma", "Düzlem-Küresel Aynalar", "Kırılma", "Renk", "Mercekler", "Prizmalar"]},
+            {"ad": "Modern Fizik", "soru_tipleri": ["Özel Görelilik", "Kara Cisim Işıması", "Fotoelektrik Olay", "Compton Saçılması", "Dalga-Parçacık İkiliği", "Atom Modelleri"]},
+            {"ad": "Kuantum Fiziği", "soru_tipleri": ["Kuantum Sayıları", "Kuantum Dolanıklığı", "Kuantum Dalga Fonksiyonu"]}
+          ]
+        },
+        "Kimya": {
+          "konular": [
+            {"ad": "Modern Atom Teorisi", "soru_tipleri": ["Atom Modelleri", "Kuantum Sayıları", "Orbital Kavramı", "Elektron Dizilimi"]},
+            {"ad": "Gazlar", "soru_tipleri": ["Gaz Yasaları", "İdeal Gaz Denklemi", "Gaz Karışımları", "Kinetik Teori", "Gazlarda Difüzyon"]},
+            {"ad": "Sıvı Çözeltiler", "soru_tipleri": ["Derişim Birimleri", "Koligatif Özellikler", "Çözünürlük", "Çözelti Hazırlama"]},
+            {"ad": "Kimyasal Tepkimelerde Hız", "soru_tipleri": ["Tepkime Hızı", "Hız Yasası", "Aktivasyon Enerjisi", "Katalizör"]},
+            {"ad": "Kimyasal Tepkimelerde Denge", "soru_tipleri": ["Denge Sabiti", "Le Chatelier Prensibi", "Asit-Baz Dengesi", "Çözünürlük Dengesi"]},
+            {"ad": "Organik Kimya", "soru_tipleri": ["Hibritleşme", "Alkan-Alken-Alkin", "Aromatik Bileşikler", "Fonksiyonel Gruplar", "Polimerler"]}
+          ]
+        },
+        "Biyoloji": {
+          "konular": [
+            {"ad": "Hücre Bölünmeleri", "soru_tipleri": ["Mitoz", "Mayoz", "Kontrol Mekanizmaları"]},
+            {"ad": "Kalıtım ve Biyoteknoloji", "soru_tipleri": ["Mendel Genetiği", "Gen Etkileşimleri", "DNA-RNA", "Protein Sentezi", "Mutasyonlar", "Gen Teknolojisi", "Biyoteknoloji"]},
+            {"ad": "Canlılık ve Enerji", "soru_tipleri": ["Fotosentez", "Kemosentez", "Oksijenli-Oksijensiz Solunum"]},
+            {"ad": "Bitki Biyolojisi", "soru_tipleri": ["Bitkisel Dokular", "Taşıma Sistemi", "Büyüme-Gelişme"]},
+            {"ad": "Hayvan Biyolojisi", "soru_tipleri": ["Sindirim", "Dolaşım", "Solunum", "Boşaltım", "Endokrin Sistem", "Sinir Sistemi", "Duyu Organları"]},
+            {"ad": "Ekoloji", "soru_tipleri": ["Popülasyon", "Komünite", "Ekosistem", "Enerji Akışı", "Madde Döngüleri", "Biyomlar"]}
+          ]
+        },
+        "Edebiyat": {
+          "konular": [
+            {"ad": "Güzel Sanatlar ve Edebiyat", "soru_tipleri": ["Metinlerin Sınıflandırılması", "Dil ve Kültür"]},
+            {"ad": "Şiir Bilgisi", "soru_tipleri": ["Ölçü", "Kafiye-Redif", "Nazım Şekilleri", "Söz Sanatları"]},
+            {"ad": "Sözlü Edebiyat", "soru_tipleri": ["Anonim Halk Edebiyatı", "Aşık Tarzı Edebiyat"]},
+            {"ad": "Divan Edebiyatı", "soru_tipleri": ["Nazım Şekilleri", "Başlıca Temsilciler", "Nesir Türleri"]},
+            {"ad": "Tanzimat Edebiyatı", "soru_tipleri": ["Sanatçılar-Eserler", "Türler"]},
+            {"ad": "Servet-i Fünun", "soru_tipleri": ["Topluluk Özellikleri", "Sanatçılar-Eserler"]},
+            {"ad": "Fecr-i Ati", "soru_tipleri": ["Bildiri", "Sanatçılar"]},
+            {"ad": "Ulusal Edebiyat", "soru_tipleri": ["Özellikler", "Sanatçılar-Eserler"]},
+            {"ad": "Cumhuriyet Dönemi", "soru_tipleri": ["Şiir", "Roman", "Hikaye", "Tiyatro", "Deneme", "Eleştiri", "Anı", "Günlük", "Biyografi"]},
+            {"ad": "Halk Edebiyatı", "soru_tipleri": ["Tekke-Tasavvuf Edebiyatı", "Halk Hikayeleri", "Mani-Ninni-Ağıt"]}
+          ]
+        },
+        "İngilizce": {
+          "konular": [
+            {"ad": "Kelime Bilgisi", "soru_tipleri": ["Fiiller", "İsimler", "Sıfatlar-Zarflar", "Phrasal Verbs", "Idioms"]},
+            {"ad": "Dil Bilgisi", "soru_tipleri": ["Tenses", "Modals", "Passive", "Reported Speech", "Conditionals", "Conjunctions", "Prepositions", "Relative Clauses", "Noun Clauses", "Adverbial Clauses", "Inversions", "Gerund-Infinitive"]},
+            {"ad": "Paragraf", "soru_tipleri": ["Ana Fikir", "Yardımcı Fikir", "Yazar Tutumu", "Çıkarım", "Paragraf Tamamlama", "Paragraf Sıralama", "Akışı Bozan Cümle"]},
+            {"ad": "Çeviri", "soru_tipleri": ["İngilizce-Türkçe Çeviri", "Türkçe-İngilizce Çeviri"]},
+            {"ad": "Diyalog Tamamlama", "soru_tipleri": ["Karşılıklı Konuşma Tamamlama"]},
+            {"ad": "Cloze Test", "soru_tipleri": ["Boşluk Doldurma", "Bağlaç", "Kelime", "Dil Bilgisi"]}
+          ]
+        }
+      }
+    },
+    "KPSS": {
+      "baslik": "Kamu Personel Seçme Sınavı - Alan Sınavı",
+      "dersler": {
+        "lise": ["Genel Yetenek", "Genel Kültür"],
+        "lisans": ["Genel Yetenek", "Genel Kültür", "Hukuk", "İktisat", "Maliye", "Muhasebe"]
+      },
+      "soru_sayilari": {
+        "Genel Yetenek": 60,
+        "Genel Kültür": 60,
+        "Hukuk": 40,
+        "İktisat": 40,
+        "Maliye": 40,
+        "Muhasebe": 40
+      },
+      "ders_detay": {
+        "Genel Yetenek": {
+          "konular": {
+            "Türkçe": [
+              {"ad": "Sözcükte Anlam", "soru_tipleri": ["Sözcük Anlamı", "Eş-Zıt Anlam", "Çok Anlamlılık"]},
+              {"ad": "Cümlede Anlam", "soru_tipleri": ["Cümle Yorumu", "Anlam İlişkileri"]},
+              {"ad": "Paragraf", "soru_tipleri": ["Ana Fikir", "Yardımcı Fikir", "Yazar Tutumu", "Paragraf Tamamlama"]},
+              {"ad": "Dil Bilgisi", "soru_tipleri": ["Sözcük Türleri", "Cümle Ögeleri", "Cümle Türleri", "Anlatım Bozuklukları"]},
+              {"ad": "Yazım-Noktalama", "soru_tipleri": ["Yazım Kuralları", "Noktalama İşaretleri"]},
+              {"ad": "Sözel Mantık", "soru_tipleri": ["Koşullu İfadeler", "Sıralama-Yerleştirme", "Tablo-Şema Mantığı"]}
+            ],
+            "Matematik": [
+              {"ad": "Temel Matematik", "soru_tipleri": ["Temel Kavramlar", "Sayı Basamakları", "Bölme-Bölünebilme", "EBOB-EKOK", "Rasyonel Sayılar", "Ondalık Sayılar"]},
+              {"ad": "Problemler", "soru_tipleri": ["Sayı-Kesir Problemleri", "Yaş Problemleri", "Hız-Hareket", "İşçi-Havuz", "Yüzde-Kar-Zarar", "Karışım"]},
+              {"ad": "Geometri", "soru_tipleri": ["Doğruda Açılar", "Üçgenler", "Çokgenler", "Çember-Daire", "Analitik Geometri"]},
+              {"ad": "Veri-İstatistik", "soru_tipleri": ["Grafikler", "Tablo Yorumlama", "Ortalama-Medyan-Mod"]},
+              {"ad": "Sayısal Mantık", "soru_tipleri": ["Şekil Yetenek", "Sayı Dizileri", "Mantıksal Muhakeme"]}
+            ]
+          }
+        },
+        "Genel Kültür": {
+          "konular": {
+            "Tarih": [
+              {"ad": "İslamiyet Öncesi Türk Tarihi", "soru_tipleri": ["İlk Türk Devletleri", "Kültür ve Medeniyet"]},
+              {"ad": "Osmanlı Tarihi", "soru_tipleri": ["Kuruluş", "Yükselme", "Duraklama", "Gerileme", "Dağılma", "Islahatlar"]},
+              {"ad": "Kurtuluş Savaşı", "soru_tipleri": ["Mustafa Kemal", "Kongreler", "Savaşlar", "Cepheler"]},
+              {"ad": "Atatürk İlkeleri ve İnkılapları", "soru_tipleri": ["Atatürk İlkeleri", "Siyasi-Sosyal-Ekonomik İnkılaplar"]},
+              {"ad": "Çağdaş Türk ve Dünya Tarihi", "soru_tipleri": ["II. Dünya Savaşı", "Küresel Örgütler", "Türkiye-AB İlişkileri"]}
+            ],
+            "Coğrafya": [
+              {"ad": "Türkiye'nin Coğrafi Konumu", "soru_tipleri": ["Özel Konum", "Matematik Konum", "Jeopolitik Konum"]},
+              {"ad": "Harita Bilgisi", "soru_tipleri": ["Ölçek", "Harita Çeşitleri", "Yeryüzü Şekillerini Gösterme"]},
+              {"ad": "Türkiye'nin Fiziki Coğrafyası", "soru_tipleri": ["Dağlar", "Akarsular", "Göller", "İklim", "Bitki Örtüsü"]},
+              {"ad": "Türkiye'nin Beşeri Coğrafyası", "soru_tipleri": ["Nüfus", "Göç", "Yerleşme"]},
+              {"ad": "Türkiye'nin Ekonomik Coğrafyası", "soru_tipleri": ["Tarım", "Hayvancılık", "Madencilik", "Enerji", "Sanayi", "Turizm", "Ulaşım"]},
+              {"ad": "Doğal Afetler", "soru_tipleri": ["Deprem", "Heyelan", "Sel", "Erozyon"]}
+            ],
+            "Vatandaşlık": [
+              {"ad": "Hukukun Temel Kavramları", "soru_tipleri": ["Hukuk Sistemleri", "Hukuk Kuralları"]},
+              {"ad": "Anayasa Hukuku", "soru_tipleri": ["Anayasa Kavramı", "Temel Hak ve Özgürlükler", "Yasama-Yürütme-Yargı"]},
+              {"ad": "Türk Vatandaşlık Sistemi", "soru_tipleri": ["Vatandaşlık Kazanma-Kaybetme"]},
+              {"ad": "Türk Yönetim Sistemi", "soru_tipleri": ["Merkezi Yönetim", "Yerel Yönetimler", "Kamu Denetçiliği"]},
+              {"ad": "Temel Hak ve Özgürlükler", "soru_tipleri": ["Kişinin Hakları", "Sosyal ve Ekonomik Haklar", "Siyasi Haklar"]}
+            ],
+            "Güncel Olaylar": [
+              {"ad": "Türkiye ve Dünya Gündemi", "soru_tipleri": ["Son 1 Yıl", "Ekonomik-Siyasi-Olgu", "Uluslararası Örgütler"]}
+            ]
+          }
+        },
+        "Hukuk": {
+          "konular": [
+            {"ad": "Anayasa Hukuku", "soru_tipleri": ["Anayasa Kavramı", "Kurucu İktidar", "Anayasalarımız", "Temel Hak ve Özgürlükler", "Yasama-Yürütme-Yargı", "Anayasa Yargısı"]},
+            {"ad": "İdare Hukuku", "soru_tipleri": ["İdarenin Organları", "İdarenin Denetimi", "Kamu Hizmeti", "Kamu Görevlileri", "İdari Sözleşmeler"]},
+            {"ad": "İdari Yargılama Hukuku", "soru_tipleri": ["İdari Yargı Sistemi", "Dava Türleri", "İptal Davası", "Tam Yargı Davası"]},
+            {"ad": "Ceza Hukuku", "soru_tipleri": ["Suç ve Ceza Kavramı", "Suçun Unsurları", "Kusurluluk", "Teşebbüs", "İştirak", "Yaptırım Türleri"]},
+            {"ad": "Ceza Muhakemesi Hukuku", "soru_tipleri": ["Koruma Tedbirleri", "İspat Kuralları", "Deliller", "Muhakeme Evreleri"]},
+            {"ad": "Medeni Hukuk", "soru_tipleri": ["Kişiler Hukuku", "Aile Hukuku", "Miras Hukuku"]},
+            {"ad": "Borçlar Hukuku", "soru_tipleri": ["Sözleşmeler", "Haksız Fiil", "Sebepsiz Zenginleşme", "Borcu Sona Erdiren Sebepler"]},
+            {"ad": "Ticaret Hukuku", "soru_tipleri": ["Ticari İşletme", "Şirketler Hukuku", "Kıymetli Evrak", "Sigorta Hukuku", "Taşıma Hukuku"]},
+            {"ad": "İcra ve İflas Hukuku", "soru_tipleri": ["İcra Takibi", "Haciz", "İflas", "Konkordato"]}
+          ]
+        },
+        "İktisat": {
+          "konular": [
+            {"ad": "Mikro İktisat", "soru_tipleri": ["Tüketici Teorisi", "Üretici Teorisi", "Piyasalar", "Tam Rekabet-Tekel", "Faktör Piyasaları"]},
+            {"ad": "Makro İktisat", "soru_tipleri": ["Milli Gelir", "Enflasyon", "İşsizlik", "Para Politikası", "Maliye Politikası"]},
+            {"ad": "Para-Banka ve Kredi", "soru_tipleri": ["Para Arzı-Talep", "Merkez Bankası", "Ticari Bankalar", "Kredi Mekanizması"]},
+            {"ad": "Uluslararası İktisat", "soru_tipleri": ["Dış Ticaret Teorileri", "Döviz Kuru", "Ödemeler Bilançosu"]},
+            {"ad": "İktisadi Büyüme ve Kalkınma", "soru_tipleri": ["Büyüme Modelleri", "Kalkınmada Faktörler", "Azgelişmişlik"]},
+            {"ad": "Türkiye Ekonomisi", "soru_tipleri": ["Tarihsel Gelişim", "Planlı Dönem", "2001 Krizi", "Güncel Göstergeler"]},
+            {"ad": "İktisadi Doktrinler Tarihi", "soru_tipleri": ["Merkantalizm", "Klasik", "Keynesyen", "Monetarist", "Neoklasik"]}
+          ]
+        },
+        "Maliye": {
+          "konular": [
+            {"ad": "Kamu Ekonomisi", "soru_tipleri": ["Kamu Kesimi", "Kamu Malları", "Dışsallıklar"]},
+            {"ad": "Kamu Harcamaları", "soru_tipleri": ["Harcama Türleri", "Harcamaların Etkileri"]},
+            {"ad": "Kamu Gelirleri", "soru_tipleri": ["Gelir Türleri", "Vergi Dışı Gelirler"]},
+            {"ad": "Vergi Hukuku", "soru_tipleri": ["Vergilendirme Yetkisi", "Vergi Türleri", "Vergi Tekniği"]},
+            {"ad": "Türk Vergi Sistemi", "soru_tipleri": ["Gelir Vergisi", "Kurumlar Vergisi", "KDV", "Özel Tüketim Vergisi"]},
+            {"ad": "Devlet Borçları", "soru_tipleri": ["Borç Türleri", "Borç Yönetimi", "Borçlanmanın Etkileri"]},
+            {"ad": "Devlet Bütçesi", "soru_tipleri": ["Bütçe Türleri", "Bütçe Süreci", "Bütçe Açığı"]},
+            {"ad": "Maliye Politikası", "soru_tipleri": ["Amaçları", "Araçları", "Genişletici-Daraltıcı", "Otomatik Stabilizatörler"]}
+          ]
+        },
+        "Muhasebe": {
+          "konular": [
+            {"ad": "Genel Muhasebe", "soru_tipleri": ["Temel Kavramlar", "Muhasebe Defterleri", "Hesap İşleyişi", "Dönem Sonu İşlemleri", "Bilanço-Gelir Tablosu"]},
+            {"ad": "Mali Tablolar Analizi", "soru_tipleri": ["Analiz Teknikleri", "Oran Analizi", "Trend Analizi"]},
+            {"ad": "Maliyet Muhasebesi", "soru_tipleri": ["Gider Çeşitleri", "Maliyet Hesaplama", "Birim Maliyet", "Safha-Sipariş Maliyeti"]},
+            {"ad": "Tekdüzen Muhasebe Sistemi", "soru_tipleri": ["Hesap Planı", "Hesap Kodları"]},
+            {"ad": "TMS/TFRS", "soru_tipleri": ["Standartlar", "Finansal Raporlama"]}
+          ]
+        }
+      }
+    },
+    "DGS": {
+      "baslik": "Dikey Geçiş Sınavı",
+      "dersler": ["Sayısal Bölüm", "Sözel Bölüm"],
+      "soru_sayilari": {"Sayısal Bölüm": 60, "Sözel Bölüm": 60},
+      "ders_detay": {
+        "Sayısal Bölüm": {
+          "konular": [
+            {"ad": "Temel Matematik", "soru_tipleri": ["Temel Kavramlar", "Sayı Basamakları", "Bölünebilme", "EBOB-EKOK", "Rasyonel Sayılar", "Eşitsizlikler", "Mutlak Değer", "Üslü-Köklü Sayılar"]},
+            {"ad": "Problemler", "soru_tipleri": ["Sayı-Kesir Problemleri", "Yaş", "Hız", "İşçi", "Yüzde", "Karışım"]},
+            {"ad": "Geometri", "soru_tipleri": ["Üçgenler", "Çokgenler", "Çember-Daire", "Alan Hacim"]},
+            {"ad": "Sayısal Mantık", "soru_tipleri": ["Şekil Yetenek", "Sayı Dizileri", "Grafik-Tablo", "Mantıksal Akıl Yürütme"]}
+          ]
+        },
+        "Sözel Bölüm": {
+          "konular": [
+            {"ad": "Türkçe", "soru_tipleri": ["Sözcükte Anlam", "Cümlede Anlam", "Paragraf", "Dil Bilgisi", "Yazım-Noktalama"]},
+            {"ad": "Sözel Mantık", "soru_tipleri": ["Koşullu İfadeler", "Sıralama", "Yerleştirme", "Tablo Mantığı"]}
+          ]
+        }
+      }
+    },
+    "ALES": {
+      "baslik": "Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı",
+      "dersler": ["Sayısal Bölüm", "Sözel Bölüm"],
+      "soru_sayilari": {"Sayısal Bölüm": 50, "Sözel Bölüm": 50},
+      "ders_detay": {
+        "Sayısal Bölüm": {
+          "konular": [
+            {"ad": "Temel Matematik", "soru_tipleri": ["Temel Kavramlar", "Sayı Basamakları", "Bölme-Bölünebilme", "EBOB-EKOK", "Üslü-Köklü Sayılar", "Mutlak Değer", "Eşitsizlikler", "Denklemler"]},
+            {"ad": "Problemler", "soru_tipleri": ["Sayı Problemleri", "Kesir Problemleri", "Yaş Problemleri", "Hız-Hareket", "İşçi Problemleri", "Yüzde-Kar-Zarar"]},
+            {"ad": "Geometri", "soru_tipleri": ["Doğruda Açılar", "Üçgenler", "Çokgenler", "Çember-Daire"]},
+            {"ad": "Veri Yorumlama", "soru_tipleri": ["Grafikler", "Tablolar", "Şekil Yorumlama"]},
+            {"ad": "Sayısal Mantık", "soru_tipleri": ["Sayı Dizileri", "Şekil Yetenek", "Mantıksal Akıl Yürütme"]}
+          ],
+          "soru_dagilimi": {"Matematik": 28, "Sayısal Mantık": 14, "Geometri": 8}
+        },
+        "Sözel Bölüm": {
+          "konular": [
+            {"ad": "Paragraf", "soru_tipleri": ["Ana Fikir", "Yardımcı Fikir", "Yazar Tutumu", "Çıkarım", "Paragraf Tamamlama"]},
+            {"ad": "Sözcükte Anlam", "soru_tipleri": ["Sözcük Anlamı", "Eş Anlam-Zıt Anlam", "Deyimler"]},
+            {"ad": "Cümlede Anlam", "soru_tipleri": ["Cümle Yorumu", "Cümle İlişkisi"]},
+            {"ad": "Sözel Mantık", "soru_tipleri": ["Koşullu İfadeler", "Sıralama-Yerleştirme", "Tablo-Şema Mantığı", "Şifre Çözme"]},
+            {"ad": "Dil Bilgisi", "soru_tipleri": ["Sözcük Türleri", "Cümle Ögeleri"]},
+            {"ad": "Cümle Tamamlama", "soru_tipleri": ["Bağlam", "Anlam Akışı"]}
+          ],
+          "soru_dagilimi": {"Paragraf": 35, "Sözcük-Cümle Anlamı": 7, "Sözel Mantık": 8}
+        }
+      }
+    }
+  },
+  "ogrenim_seviye_carpanlari": {
+    "lise": 0.8,
+    "önlisans": 0.9,
+    "lisans": 1.0
+  },
+  "altyapi_carpanlari": {
+    "yok": 0.7,
+    "orta": 1.0,
+    "var": 1.2
+  }
+}
